@@ -1,8 +1,9 @@
 import React from 'react';
 import Recorder from './src/recorder';
+import Rec from './src/rec';
 
 const App = () => {
-  return <Recorder />;
+  return <Rec />;
 };
 
 export default App;
